@@ -32,6 +32,7 @@ See [Benchmark Results](benchmark_results.md).
 ## supported model list
 - [ ] YOLOv10 (welcome to contribute)
 - [ ] YOLOv9 (welcome to contribute)
+- [x] [FastSAM](configs/fastsam)
 - [x] [YOLOv8](configs/yolov8)
 - [x] [YOLOv7](configs/yolov7)
 - [x] [YOLOX](configs/yolox)
